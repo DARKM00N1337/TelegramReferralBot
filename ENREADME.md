@@ -22,7 +22,7 @@ TelegramReferralBot is a Python script that automates the process of joining a T
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/TelegramReferralBot.git
+    git clone https://github.com/DARKM00N1337/TelegramReferralBot.git
     cd TelegramReferralBot
     ```
 
