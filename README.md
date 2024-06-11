@@ -22,7 +22,7 @@ TelegramReferralBot - это Python-скрипт, который автомат�
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone https://github.com/yourusername/TelegramReferralBot.git
+    git clone https://github.com/DARKM00N1337/TelegramReferralBot.git
     cd TelegramReferralBot
     ```
 
